@@ -1,0 +1,5 @@
+{
+  "name": "MediPulse Pro",
+  "description": "A comprehensive healthcare management system featuring lab analysis, appointment scheduling, IPD management, and patient communication tools.",
+  "requestFramePermissions": []
+}
